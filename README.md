@@ -6,7 +6,7 @@ I'm Giovanni Prisco, a Full Stack Developer 👨🏻‍💻
 
 - 🌱 I’m currently a Computer Science student at University and a Pier Student at Apple Developer Academy in Naples 🍎
 
-- 💬 Ask me about anything related to Web or iOS Development, I'm currently diving deeper and deeper into react, trying to apply my new knowledge about typescript to it 🚀
+- 💬 Ask me about anything related to Web or iOS Development, I'm currently exploring Flutter and mobile development while still trying to specialize into web development 🚀
 
 - 📫 How to reach me: 
   - 👨🏻‍💻 [Linkedin](https://www.linkedin.com/in/priscogiovanni/)
