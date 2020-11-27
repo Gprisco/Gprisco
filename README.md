@@ -2,11 +2,19 @@
 
 I'm Giovanni Prisco, a Full Stack Developer 👨🏻‍💻
 
-- 🔭 I’m currently working on something cool and I can't wait to show it to you 🤩
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gprisco&show_icons=true&theme=react" alt="Giovanni Prisco's Stats" />
+</p>
 
-- 🌱 I’m currently a Computer Science student at University and a Pier Student at Apple Developer Academy in Naples 🍎
+- 🔭 I’m currently working on the Wineboard project [Check it out (still work in progress 🤫)](https://wineboard.io)
 
-- 💬 Ask me about anything related to Web or iOS Development, I'm currently exploring Flutter and mobile development while still trying to specialize into web development 🚀
+- 🌱 I’m currently a Computer Science student at University and a Pier Student as Backend Developer at Apple Developer Academy in Naples 🍎
+
+- 💬 Ask me about anything related to Web or iOS Development, I'm currently getting more in deep in web development, especially in backend development 🚀
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=react" alt="Giovanni Prisco's most used languages" />
+</p>
 
 - 📫 How to reach me: 
   - 👨🏻‍💻 [Linkedin](https://www.linkedin.com/in/priscogiovanni/)
