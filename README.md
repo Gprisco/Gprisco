@@ -20,3 +20,4 @@ I'm Giovanni Prisco, a Full Stack Developer 👨🏻‍💻
   - 👨🏻‍💻 [Linkedin](https://www.linkedin.com/in/priscogiovanni/)
   - 🚀 [My Website](https://prisco.dev) (One day I will add my projects... I swear!)
   - 🖋 [Medium](https://medium.com/@gprisco)
+  - 📧 [Send me an email](mailto:giovanni@prisco.dev)
