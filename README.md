@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-I'm Giovanni Prisco, a Full Stack Developer 👨🏻‍💻
+I'm Giovanni Prisco, a Backend Developer 👨🏻‍💻
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gprisco&show_icons=true&theme=react" alt="Giovanni Prisco's Stats" />
 </p>
 
-- 🌱 I’m currently a Computer Science student at University and a Pier Student as Backend Developer at Apple Developer Academy in Naples 🍎
+- 🌱 I’m currently studying Computer Science @ Università degli Studi di Salerno and I recently graduated from Apple Developer Academy Pier program 🍎
 
-- 💬 Ask me about anything related to Web or iOS Development, I'm currently getting more in deep in web development, especially regarding backend, databases and stuff 🚀
+- 💬 Ask me about anything related to Backend development: APIs, webservers, databases, microservices...
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=react" alt="Giovanni Prisco's most used languages" />
