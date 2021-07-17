@@ -8,7 +8,9 @@ I'm Giovanni Prisco, a Backend Developer 👨🏻‍💻
 
 - 🌱 I’m currently studying Computer Science @ Università degli Studi di Salerno and I recently graduated from Apple Developer Academy Pier program 🍎
 
-- 💬 Ask me about anything related to Backend development: APIs, webservers, databases, microservices...
+- 📚 Moreover I'm diving deeper into Cloud Native stuff, studying and trying to play with building microservices, building faas applications and deploying stuff using Docker, Kubernetes, OpenFaas...
+
+- 💬 Ask me about anything related to Backend Development: APIs, webservers, databases, microservices...
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=react" alt="Giovanni Prisco's most used languages" />
