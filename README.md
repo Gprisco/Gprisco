@@ -6,7 +6,7 @@ I'm Giovanni Prisco, a Backend Developer 👨🏻‍💻
   <img src="https://github-readme-stats.vercel.app/api?username=Gprisco&show_icons=true&theme=react" alt="Giovanni Prisco's Stats" />
 </p>
 
-- 🌱 I’m currently studying Computer Science @ Università degli Studi di Salerno and I recently graduated from Apple Developer Academy Pier program 🍎
+- 🌱 I’m currently working as an Application Developer @ IBM CIC in the cloud department and I'm studying Computer Science @ Università degli Studi di Salerno
 
 - 📚 Moreover I'm diving deeper into Cloud Native stuff, studying and trying to play with building microservices, building serverless applications and deploying stuff using Docker, Kubernetes, OpenFaas...
 
