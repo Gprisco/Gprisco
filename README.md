@@ -1,20 +1,12 @@
 ### Hi there 👋
 
-I'm Giovanni Prisco, a Backend Developer 👨🏻‍💻
+I'm Giovanni Prisco, a Software Engineer 👨🏻‍💻
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gprisco&show_icons=true&theme=react" alt="Giovanni Prisco's Stats" />
-</p>
+- 🌱 My current job involves system design and development for the Underwriting team at Klarna.
 
-- 🌱 I’m currently working as a Software Engineer @ Klarna.
-
-- 📚 I'm diving deeper into Cloud Native stuff, studying and trying to play with building microservices, serverless applications and deployments using Docker, Kubernetes and OpenFaas...
+- 📚 I'm diving deeper into Cloud Native stuff, studying and trying to play with building microservices, serverless applications and deployment models using Docker, Kubernetes and OpenFaas.
 
 - 💬 Ask me about anything related to Backend Development: APIs, webservers, databases, microservices...
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=react" alt="Giovanni Prisco's most used languages" />
-</p>
 
 - 📫 How to reach me: 
   - 👨🏻‍💻 [Linkedin](https://www.linkedin.com/in/priscogiovanni/)
