@@ -2,7 +2,7 @@
 
 I'm Giovanni Prisco, a Software Engineer 👨🏻‍💻
 
-- 🌱 My current job involves system design and development for the Underwriting team at Klarna.
+- 🌱 My current job involves system design and software development.
 
 - 📚 I'm diving deeper into Cloud Native stuff, studying and trying to play with building microservices, serverless applications and deployment models using Docker, Kubernetes and OpenFaas.
 
